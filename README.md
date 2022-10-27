@@ -232,7 +232,7 @@ Use this table as a reference when writing commits. Husky will be in charge of c
 
 # 📧 Contact
 
-Diego Do Santos - ddosantos@hotmail.com
+Ethan
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
