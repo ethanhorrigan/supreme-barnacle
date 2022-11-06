@@ -19,7 +19,7 @@
     "plugin:promise/recommended",
     "plugin:prettier/recommended"
   ],
-  "parser": "@typescript-eslint/parser",
+  "parser": "@babel/eslint-parser",
   "parserOptions": {
     "ecmaFeatures": {
       "jsx": true
@@ -61,7 +61,7 @@
         "singleQuote": true,
         "printWidth": 100,
         "tabWidth": 2,
-        "semi": false,
+        "semi": true,
         "bracketSpacing": true,
         "arrowParens": "always",
         "endOfLine": "auto",
