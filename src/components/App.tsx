@@ -24,9 +24,6 @@ function App() {
           Analytics
           <span className="block text-3xl italic">Tik Tok Managment</span>
         </h1>
-        {/* <p className="max-w-sm text-base leading-7 sm:max-w-none">
-          Avoid setting up a project from scratch. Start using VRTTV 🎉 Ethan
-        </p> */}
         <a
           className="rounded bg-blue-100 py-3 px-4 font-bold uppercase tracking-wide text-blue-700 shadow-md shadow-blue-800 transition-colors hover:bg-blue-900 hover:text-blue-100"
           href="https://github.com/Drumpy/vrttv-boilerplate"
